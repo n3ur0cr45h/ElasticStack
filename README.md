@@ -40,8 +40,8 @@ E1.2 - Componentes do Elastic Stack:
  > - Elastic Security: Monitoramento e Análise de Segurança.
   
 E1.3 - Diferença entre ELK e EFK  
- > ELK: Stack com o uso do Logstash - "L" - Pipelines complexos de dados e transformações avançadas (Mais pesado);  
- > EFK: Stack com o uso do Fluentd - "F" - Fácil integração com Pods e Clusters, usado muito com Containers e Kubernetes (Mais leve).  
+ > - ELK: Stack com o uso do Logstash - "L" - Pipelines complexos de dados e transformações avançadas (Mais pesado);  
+ > - EFK: Stack com o uso do Fluentd - "F" - Fácil integração com Pods e Clusters, usado muito com Containers e Kubernetes (Mais leve).  
 
 
 
