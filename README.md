@@ -44,11 +44,11 @@ E1.3 - Diferença entre ELK e EFK
  > - EFK: Stack com o uso do Fluentd - "F" - Fácil integração com Pods e Clusters, usado muito com Containers e Kubernetes (Mais leve).  
 
 E1.4 - Implantação c/ Docker  
- > | Componentes      | URL |    
- > |------------------|-----|
- > | 1. ElasticSearch | <a href="https://www.elastic.co/docs/deploy-manage/deploy/self-managed/install-elasticsearch-docker-basic">Instalação ElasticSearch</a> | 
- > | 2. Kibana        | <a href="https://www.elastic.co/docs/deploy-manage/deploy/self-managed/install-elasticsearch-docker-basic#run-kibana-docker">Instalação Kibana |
- > | 3. Adição de Nós | <a href="https://www.elastic.co/docs/deploy-manage/deploy/self-managed/install-elasticsearch-docker-basic#_add_more_nodes">Adição de Múltiplos Nós |
+ > | Componentes                                                                                                                                                           |
+ > |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+ > | <a href="https://www.elastic.co/docs/deploy-manage/deploy/self-managed/install-elasticsearch-docker-basic">1. Instalação ElasticSearch</a> | 
+ > | <a href="https://www.elastic.co/docs/deploy-manage/deploy/self-managed/install-elasticsearch-docker-basic#run-kibana-docker">2. Instalação Kibana |
+ > | <a href="https://www.elastic.co/docs/deploy-manage/deploy/self-managed/install-elasticsearch-docker-basic#_add_more_nodes">3. Adição de Múltiplos Nós |
 
 
 </div> 
